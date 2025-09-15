@@ -1,1 +1,1 @@
-Esto es una prueba
+He modificado el fichero ejemplo.txt
